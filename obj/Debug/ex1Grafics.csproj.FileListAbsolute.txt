@@ -1,0 +1,15 @@
+c:\users\asafl\source\repos\ex1Grafics\ex1Grafics\bin\Debug\ex1Grafics.exe.config
+c:\users\asafl\source\repos\ex1Grafics\ex1Grafics\bin\Debug\ex1Grafics.exe
+c:\users\asafl\source\repos\ex1Grafics\ex1Grafics\bin\Debug\ex1Grafics.pdb
+c:\users\asafl\source\repos\ex1Grafics\ex1Grafics\obj\Debug\MainWindow.g.cs
+c:\users\asafl\source\repos\ex1Grafics\ex1Grafics\obj\Debug\App.g.cs
+c:\users\asafl\source\repos\ex1Grafics\ex1Grafics\obj\Debug\ex1Grafics_MarkupCompile.cache
+c:\users\asafl\source\repos\ex1Grafics\ex1Grafics\obj\Debug\ex1Grafics_MarkupCompile.lref
+c:\users\asafl\source\repos\ex1Grafics\ex1Grafics\obj\Debug\MainWindow.baml
+c:\users\asafl\source\repos\ex1Grafics\ex1Grafics\obj\Debug\ex1Grafics.g.resources
+c:\users\asafl\source\repos\ex1Grafics\ex1Grafics\obj\Debug\ex1Grafics.Properties.Resources.resources
+c:\users\asafl\source\repos\ex1Grafics\ex1Grafics\obj\Debug\ex1Grafics.csproj.GenerateResource.Cache
+c:\users\asafl\source\repos\ex1Grafics\ex1Grafics\obj\Debug\ex1Grafics.csproj.CoreCompileInputs.cache
+c:\users\asafl\source\repos\ex1Grafics\ex1Grafics\obj\Debug\ex1Grafics.exe
+c:\users\asafl\source\repos\ex1Grafics\ex1Grafics\obj\Debug\ex1Grafics.pdb
+c:\users\asafl\source\repos\ex1Grafics\ex1Grafics\obj\Debug\ex1Grafics.csprojResolveAssemblyReference.cache
